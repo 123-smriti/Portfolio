@@ -8,7 +8,7 @@ function Education() {
         id="education-heading"
         eyebrow="Background"
         title="Education"
-        description="Add your real details when you are ready. These entries are placeholders only."
+        description="Educational experiences that have shaped my journey."
       />
       <ol className="timeline">
         {education.map((item) => (

@@ -63,7 +63,7 @@ export const projects = [
     description:
       "A full-stack job application tracking platform that helps users manage and monitor their job applications in one place. It includes authentication, role-based access, job application management, and RESTful API integration with a structured database.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/your-username/qtrip",
+    github: "https://github.com/123-smriti/Job-track",
     live: "https://your-username.github.io/qtrip",
   },
   {
